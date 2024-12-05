@@ -2,11 +2,11 @@
 <html>
 <head>
     
-    <title>Users</title>
+    <title>Reports</title>
     
 </head>
 <body>
-    <form action="addusers.php" method="POST">
+    <form action="addreports.php" method="POST">
     First name:<input type="text" name="forename"><br>
     Last name:<input type="text" name="surname"><br>
     Password:<input type="password" name="passwd"><br>
